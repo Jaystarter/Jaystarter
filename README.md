@@ -71,8 +71,8 @@ A luxurious, high-end promotional website for an exclusive private event space i
 *   **Design:** Minimalist luxury aesthetic utilizing marble textures and refined typography.
 *   **Live Site:** [G7 Global Conference](https://g7globalconference.com/)
 
-<div align="center">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/90521350/RCwhNHlKkKEYqYPU.gif" alt="G7 Global Conference Demo" width="800"/>
+<img width="800" height="524" alt="CleanShot 2026-04-15 at 12 03 09" src="https://github.com/user-attachments/assets/c5947eae-cf4d-489c-8675-d16ac974b9b2" />
+
 </div>
 
 ---
