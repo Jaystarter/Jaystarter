@@ -72,7 +72,7 @@ A luxurious, high-end promotional website for an exclusive private event space i
 *   **Live Site:** [G7 Global Conference](https://g7globalconference.com/)
 
 <div align="center">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/90521350/JiGTMjJBoAlWqVNp.webp" alt="G7 Global Conference Hero" width="800"/>
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/90521350/RCwhNHlKkKEYqYPU.gif" alt="G7 Global Conference Demo" width="800"/>
 </div>
 
 ---
