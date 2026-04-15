@@ -56,9 +56,7 @@ A sophisticated interactive visualization tool built to explore the complex rela
 *   **Highlights:** Implements cosine similarity and overlap coefficient algorithms to determine tool relationships, deployed seamlessly on Netlify.
 *   **Live Site:** [TNFD Clustering](https://tnfd-clustering.netlify.app/)
 
-<div align="center">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/90521350/tWcQltfUhGkxhXRP.webp" alt="TNFD Relational Map" width="800"/>
-</div>
+<img width="800" height="525" alt="CleanShot 2026-04-15 at 12 13 56" src="https://github.com/user-attachments/assets/64b49864-a108-41df-82d0-e8942299b9ee" />
 
 ---
 
