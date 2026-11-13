@@ -1,96 +1,145 @@
-<div align="center">
-  <h1>Hi there, I'm Jayden McNab (Jaystarter) 👋</h1>
-  <p><strong>Full-Stack Developer | AI Enthusiast | Problem Solver</strong></p>
-  <p>
-    <a href="https://github.com/Jaystarter"><img src="https://img.shields.io/github/followers/Jaystarter?label=Followers&style=social" alt="GitHub followers"></a>
-    <a href="mailto:jaydenmcnab02@gmail.com"><img src="https://img.shields.io/badge/Email-jaydenmcnab02%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
-  </p>
-</div>
+<a href="https://browsevesper.com"><img src="assets/banner.jpg" alt="Jayden McNab, building Vesper" width="100%"></a>
 
----
+<p align="center">
+  <a href="https://browsevesper.com"><img src="https://img.shields.io/badge/browsevesper.com-f1edff?style=for-the-badge&logoColor=0b0820&labelColor=f1edff&color=f1edff" alt="browsevesper.com"></a>
+  <a href="https://www.youtube.com/@browsevesper"><img src="https://img.shields.io/badge/YouTube-Vesper_Browser-6a45f0?style=for-the-badge&logo=youtube&logoColor=white" alt="Vesper on YouTube"></a>
+  <a href="mailto:jaydenmcnab02@gmail.com"><img src="https://img.shields.io/badge/Email-me-150f33?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-## 👨‍💻 About Me
+<p align="center">
+  I build software that should feel calm to use: a web browser, a language app, data tools,<br>
+  and the little films that show them off. TypeScript, React, Python and a lot of WebGL.
+</p>
 
-I am a passionate developer with a strong focus on building interactive web applications, AI-integrated tools, and robust backend systems. My work spans across modern frontend frameworks like React and Vite, backend technologies like FastAPI and Python, and data visualization using D3.js. I enjoy tackling complex problems and creating elegant, user-centric solutions.
+<br>
 
-### 🛠️ Tech Stack & Tools
+<h2 align="center">✦ &nbsp;Now building&nbsp; ✦</h2>
 
-*   **Languages:** TypeScript, JavaScript, Python, HTML/CSS
-*   **Frontend:** React, Vite, Tailwind CSS, Material UI, Framer Motion, Next.js
-*   **Backend:** FastAPI, Node.js, Serverless Functions (Netlify/Vercel)
-*   **Data & AI:** Custom Vector Databases, Sentence-Transformers, Google Gemini, D3.js
-*   **DevOps & Tools:** Docker, Git, Make, npm/yarn
+<p align="center">
+  <a href="https://youtu.be/VzxoIKm8kB4"><img src="assets/vesper-thumbnail.jpg" alt="Vesper: watch the film" width="100%"></a>
+  <br>
+  <sub><a href="https://youtu.be/VzxoIKm8kB4">▶&nbsp; Watch the 34-second film</a></sub>
+</p>
 
----
+<p align="center">
+  <b>Vesper</b> is a new web browser for Mac and Windows.<br>
+  Tabs live in a sidebar, every space has its own sky, and when you ask it something<br>
+  it answers with a page you can read, with its sources, instead of a wall of text.
+</p>
 
-## 🚀 Featured Projects
+<p align="center">
+  <a href="https://browsevesper.com/download/mac"><img src="https://img.shields.io/badge/Download_for_Mac-f1edff?style=for-the-badge&logo=apple&logoColor=0b0820" alt="Download for Mac"></a>
+  <a href="https://browsevesper.com/download/windows"><img src="https://img.shields.io/badge/Download_for_Windows-6a45f0?style=for-the-badge&logo=windows11&logoColor=white" alt="Download for Windows"></a>
+  <br>
+  <sub>Free · macOS 12 or later on Apple silicon (<a href="https://browsevesper.com/download/mac-intel">Intel Mac here</a>) · Windows</sub>
+</p>
 
-While some of my most impactful work is kept in private repositories, I am excited to share the details and visual previews of these projects below.
+<br>
 
-### 1. LinguaFlow (Lingua App)
-**Instant Translations & Conjugations**
+<p align="center">
+  <img src="assets/vesper-film.gif" alt="Vesper in motion: the sidebar, spaces and split view" width="100%">
+</p>
 
-Lingua is a comprehensive language learning tool designed to help users master verb conjugations and translations instantly. Available as both a sleek web application and a mobile-first iOS app, it provides real-time examples and audio pronunciations.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/vesper-sidebar.jpg" alt="Vesper's sidebar of tabs">
+      <h3>Tabs in a sidebar</h3>
+      Pinned tabs, folders and favourites that stay put. Today's tabs tidy themselves away when you're done with them.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/vesper-spaces.jpg" alt="A Vesper space with its own colours">
+      <h3>Spaces, each with its own sky</h3>
+      Work, home and every project in their own space, with their own logins, colours and planet.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/vesper-split.jpg" alt="Two pages side by side in Vesper">
+      <h3>Split view</h3>
+      Drag a tab onto the page and you have two side by side, for reading while you write.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/vesper-answer.jpg" alt="An answer laid out as a page in Vesper">
+      <h3>Ask Vesper</h3>
+      Ask anything and get an answer laid out as a page, with the sources it read. Or ask about the page you're on.
+    </td>
+  </tr>
+</table>
 
-*   **Key Features:** Interactive conjugation tables (Past, Present, Future), voice input support, audio playback, and a clean, minimalist UI with a signature red accent.
-*   **Live Web App:** [LinguaFlow](https://lingua-flow-web.vercel.app/)
+<p align="center">
+  <sub>Also inside: a command bar, built-in ad and tracker blocking, a password manager, picture-in-picture,<br>
+  end-to-end encrypted sync between your Mac and PC, and import from Arc.</sub>
+</p>
 
-<div align="center">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/90521350/RdmCoeZOtOaeCdKF.png" alt="Lingua Banner" width="800"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/90521350/lqVqJDqFGJFVIWLH.png" alt="Lingua App Screenshot 1" width="300"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/90521350/ldHcZbHTfGdTSpRy.png" alt="Lingua App Screenshot 2" width="300"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Electron-150f33?style=flat-square&logo=electron&logoColor=9feaf9" alt="Electron">
+  <img src="https://img.shields.io/badge/React-150f33?style=flat-square&logo=react&logoColor=61dafb" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-150f33?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Vite-150f33?style=flat-square&logo=vite&logoColor=bd34fe" alt="Vite">
+  <img src="https://img.shields.io/badge/WebGL-150f33?style=flat-square&logo=webgl&logoColor=white" alt="WebGL">
+  <img src="https://img.shields.io/badge/Supabase-150f33?style=flat-square&logo=supabase&logoColor=3ecf8e" alt="Supabase">
+  <img src="https://img.shields.io/badge/Vercel-150f33?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+</p>
 
----
+<br>
 
-### 2. TNFD Tools Relational Map
-**Interactive Data Visualization & Clustering**
+<h2 align="center">✦ &nbsp;Other work&nbsp; ✦</h2>
 
-A sophisticated interactive visualization tool built to explore the complex relationships between various TNFD-related tools. It leverages advanced clustering algorithms and natural language search to make large datasets easily navigable.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://lingua-flow-web.vercel.app/"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/90521350/RdmCoeZOtOaeCdKF.png" alt="LinguaFlow"></a>
+      <h3>LinguaFlow</h3>
+      Instant translations and verb conjugations, on the web and as an iOS app: conjugation tables for every tense, voice input and audio pronunciation.
+      <br><br><a href="https://lingua-flow-web.vercel.app/"><b>Open the web app →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://tnfd-clustering.netlify.app/"><img src="https://github.com/user-attachments/assets/64b49864-a108-41df-82d0-e8942299b9ee" alt="TNFD Tools Relational Map"></a>
+      <h3>TNFD Tools Map</h3>
+      An interactive map of how TNFD tools relate, with D3 force graphs, clustering by cosine similarity and natural-language search through Gemini.
+      <br><br><a href="https://tnfd-clustering.netlify.app/"><b>Explore the map →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://g7globalconference.com/"><img src="https://github.com/user-attachments/assets/c5947eae-cf4d-489c-8675-d16ac974b9b2" alt="G7 Global Conference"></a>
+      <h3>G7 Global Conference</h3>
+      A site for a private event venue in Warsaw: English and Polish, interactive floor plans for every layout, and a quiet marble-and-serif look.
+      <br><br><a href="https://g7globalconference.com/"><b>Visit the site →</b></a>
+    </td>
+  </tr>
+</table>
 
-*   **Tech Stack:** React 18+, TypeScript, D3.js (force-directed graphs, convex hulls), Google Gemini 2.0 Flash-Lite for NLP search.
-*   **Highlights:** Implements cosine similarity and overlap coefficient algorithms to determine tool relationships, deployed seamlessly on Netlify.
-*   **Live Site:** [TNFD Clustering](https://tnfd-clustering.netlify.app/)
+<h3 align="center">In the open</h3>
 
-<img width="800" height="525" alt="CleanShot 2026-04-15 at 12 13 56" src="https://github.com/user-attachments/assets/64b49864-a108-41df-82d0-e8942299b9ee" />
+<table>
+  <tr>
+    <td valign="top"><a href="https://github.com/Jaystarter/custom-vector-search"><b>custom-vector-search</b></a><br><sub>Semantic search with FastAPI and bge-micro, on a flat in-memory vector index with no vector database.</sub></td>
+    <td valign="top"><a href="https://github.com/Jaystarter/AI-Future-Game"><b>AI-Future-Game</b></a><br><sub>A 2D exploration game in Vite and TypeScript that travels through four eras of AI.</sub></td>
+    <td valign="top"><a href="https://github.com/Jaystarter/after-query"><b>after-query</b></a><br><sub>A Terminal-Bench task-creation guide and test framework on Docker and Python 3.12.</sub></td>
+  </tr>
+</table>
 
----
+<br>
 
-### 3. G7 Global Conference
-**Warsaw's Premier Private Venue Platform**
+<h3 align="center">Tools I reach for</h3>
 
-A luxurious, high-end promotional website for an exclusive private event space in Warsaw. The site is designed to reflect the elegance and exclusivity of the venue, catering to corporate retreats, galas, and intimate dinners.
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-150f33?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-150f33?style=flat-square&logo=python&logoColor=ffd43b" alt="Python">
+  <img src="https://img.shields.io/badge/React-150f33?style=flat-square&logo=react&logoColor=61dafb" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-150f33?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Flutter-150f33?style=flat-square&logo=flutter&logoColor=54c5f8" alt="Flutter">
+  <img src="https://img.shields.io/badge/Tailwind-150f33?style=flat-square&logo=tailwindcss&logoColor=38bdf8" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/FastAPI-150f33?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Node.js-150f33?style=flat-square&logo=nodedotjs&logoColor=5fa04e" alt="Node.js">
+  <img src="https://img.shields.io/badge/D3.js-150f33?style=flat-square&logo=d3dotjs&logoColor=f9a03c" alt="D3.js">
+  <img src="https://img.shields.io/badge/Gemini-150f33?style=flat-square&logo=googlegemini&logoColor=8e75ff" alt="Gemini">
+  <img src="https://img.shields.io/badge/Docker-150f33?style=flat-square&logo=docker&logoColor=2496ed" alt="Docker">
+</p>
 
-*   **Features:** Bilingual support (English/Polish), interactive floor plan layouts (Theater, Banquet, Standing), and smooth, elegant animations.
-*   **Design:** Minimalist luxury aesthetic utilizing marble textures and refined typography.
-*   **Live Site:** [G7 Global Conference](https://g7globalconference.com/)
+<br>
 
-<img width="800" height="524" alt="CleanShot 2026-04-15 at 12 03 09" src="https://github.com/user-attachments/assets/c5947eae-cf4d-489c-8675-d16ac974b9b2" />
 
-</div>
-
----
-
-## 📂 Open Source Contributions
-
-Here are a few of my public repositories where I experiment with new technologies and build open tools:
-
-*   **[custom-vector-search](https://github.com/Jaystarter/custom-vector-search):** A minimal semantic search application using FastAPI and TaylorAI/bge-micro. It builds a flat in-memory vector index from JSON data without relying on external vector databases like FAISS.
-*   **[AI-Future-Game](https://github.com/Jaystarter/AI-Future-Game):** A Pokémon-style 2D exploration game built with Vite and TypeScript. Players travel through four time periods to learn about the progression and evolution of AI technology.
-*   **[after-query](https://github.com/Jaystarter/after-query):** A comprehensive Terminal-Bench Task Creation Guide and assessment framework utilizing Docker and Python 3.12 for rigorous testing environments.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaystarter&show_icons=true&theme=radical" alt="Jaystarter's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaystarter&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<br/>
-<div align="center">
-  <i>"Building the future, one line of code at a time."</i>
-</div>
+<p align="center">
+  <a href="https://browsevesper.com"><sub><i>Look up. It's out tonight.</i></sub></a>
+</p>
