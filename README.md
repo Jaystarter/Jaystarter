@@ -84,23 +84,92 @@
 
 <br>
 
-<h2 align="center">✦ &nbsp;Other work&nbsp; ✦</h2>
+<h2 align="center">✦ &nbsp;Also building&nbsp; ✦</h2>
+
+<p align="center">
+  <img src="assets/linguaflow/hero.webp" alt="LinguaFlow: learn Polish with Lumi. Three phone screens showing the Today trail, a flashcard and the streak screen." width="100%">
+</p>
+
+<p align="center">
+  <b>LinguaFlow</b> teaches Polish with a bison calf called Lumi.<br>
+  You walk a trail through Białowieża forest: answer flashcards, read real texts where every word<br>
+  is one tap from its meaning, and play three short games for the parts of Polish that hurt.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/iOS_and_Android-34a830?style=for-the-badge&logo=flutter&logoColor=white" alt="iOS and Android">
+  <img src="https://img.shields.io/badge/Private_beta-ffc42e?style=for-the-badge&logoColor=233127" alt="Private beta">
+  <br>
+  <sub>Version 1.0.71 · in private beta on TestFlight and Google Play · <a href="https://lingua-flow-web.vercel.app/">the original web translator is still live</a></sub>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="assets/linguaflow/row-daily.webp" alt="Four screens: the Today trail with the daily goal and level, a flashcard answered correctly, the session-complete screen with XP and a level-up, and the streak screen." width="100%">
+</p>
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://lingua-flow-web.vercel.app/"><img src="https://files.manuscdn.com/user_upload_by_module/session_file/90521350/RdmCoeZOtOaeCdKF.png" alt="LinguaFlow"></a>
-      <h3>LinguaFlow</h3>
-      Instant translations and verb conjugations, on the web and as an iOS app: conjugation tables for every tense, voice input and audio pronunciation.
-      <br><br><a href="https://lingua-flow-web.vercel.app/"><b>Open the web app →</b></a>
+      <h3>Memory that lasts</h3>
+      Spaced repetition on a word ledger keyed by dictionary form, so <i>kot</i>, <i>kota</i> and <i>kotem</i> are one word. A word only counts as known after it survives check-ups at 3, 30 and 120 days.
     </td>
     <td width="33%" valign="top">
+      <h3>Reading first</h3>
+      A paged reader with glosses on tap and a "% known" figure for every text. Stories are written at your level and rewritten if they come out too hard.
+    </td>
+    <td width="33%" valign="top">
+      <h3>Progress every day</h3>
+      XP and levels, a daily goal ring, and a milestone bar with a second layer for words still growing, so every session moves something you can see.
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="assets/linguaflow/row-games.webp" alt="Four screens: Kuźnia, a game for case endings; Pałac pamięci, a memory palace of illustrated rooms; Mów!, speaking practice with a pronunciation score; and Talk, a chat with a tutor that corrects mistakes." width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/linguaflow/row-read.webp" alt="Four screens: the Library with a next-up book and percent known, the reader with a word card open, the Write hub, and the You tab with level and milestones." width="100%">
+</p>
+
+<p align="center">
+  <b>One app, three skins.</b> A skin swaps the colours, the scenery and Lumi's species;<br>
+  the screens and the behaviour stay the same.
+</p>
+
+<p align="center">
+  <img src="assets/linguaflow/skins.webp" alt="The Today screen in three skins: Meadow with a bison calf in Białowieża forest, Coral with a red squirrel in Kraków, and Sky with a white stork by the Vistula." width="100%">
+</p>
+
+<p align="center">
+  <sub>Also inside: home-screen widgets with a new Polish word every hour, writing graded word by word,<br>
+  pronunciation scoring, offline guest mode, sync between phones, and 1,044 automated tests behind it all.</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-150f33?style=flat-square&logo=flutter&logoColor=54c5f8" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-150f33?style=flat-square&logo=dart&logoColor=40c4ff" alt="Dart">
+  <img src="https://img.shields.io/badge/Riverpod-150f33?style=flat-square&logoColor=white" alt="Riverpod">
+  <img src="https://img.shields.io/badge/TypeScript-150f33?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Supabase-150f33?style=flat-square&logo=supabase&logoColor=3ecf8e" alt="Supabase">
+  <img src="https://img.shields.io/badge/Vercel-150f33?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+</p>
+
+<br>
+
+<h2 align="center">✦ &nbsp;Other work&nbsp; ✦</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://tnfd-clustering.netlify.app/"><img src="https://github.com/user-attachments/assets/64b49864-a108-41df-82d0-e8942299b9ee" alt="TNFD Tools Relational Map"></a>
       <h3>TNFD Tools Map</h3>
       An interactive map of how TNFD tools relate, with D3 force graphs, clustering by cosine similarity and natural-language search through Gemini.
       <br><br><a href="https://tnfd-clustering.netlify.app/"><b>Explore the map →</b></a>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://g7globalconference.com/"><img src="https://github.com/user-attachments/assets/c5947eae-cf4d-489c-8675-d16ac974b9b2" alt="G7 Global Conference"></a>
       <h3>G7 Global Conference</h3>
       A site for a private event venue in Warsaw: English and Polish, interactive floor plans for every layout, and a quiet marble-and-serif look.
