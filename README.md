@@ -10,6 +10,23 @@ I build browsers, language tools, and the short films that show how they work. M
 
 **[Watch the 46-second film](https://youtu.be/sC0MhCmYfFA)** · [Download for Mac or Windows](https://browsevesper.com/download)
 
+<details>
+<summary><strong>Look inside the app</strong> — 3 Vesper screenshots</summary>
+
+**Sidebar tabs.** Pinned sites stay above today’s tabs while you browse.
+
+[![Vesper’s Evening sidebar open next to NASA’s Saturn page.](assets/vesper-current/sidebar.webp)](assets/vesper-current/sidebar.webp)
+
+**Split view.** Compare NASA’s Saturn and Venus pages without switching tabs.
+
+[![Saturn and Venus open side by side in one Vesper window.](assets/vesper-current/split-view.webp)](assets/vesper-current/split-view.webp)
+
+**Ask Vesper.** The answer to “How many moons does Saturn have?” has its sources alongside it.
+
+[![Vesper’s Saturn’s Moon Count answer, with a list of the sources it used on the right.](assets/vesper-current/sourced-answer.webp)](assets/vesper-current/sourced-answer.webp)
+
+</details>
+
 In the film I open NASA’s pages for Saturn and Venus side by side, then ask how many moons Saturn has. Vesper lays out the answer as a page, with the sources alongside it. Choose Vesper’s AI, or use the Claude Code or Codex subscription already on your computer.
 
 **What changed in 0.4.5:** While an answer is forming, you can follow each search and see which pages Vesper reads. Earlier steps fold away so the newest one stays in view.
